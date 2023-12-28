@@ -13,3 +13,4 @@
 9 start coding in new branch
 10 more code
 11 beatiful background
+12 add authorization to site
